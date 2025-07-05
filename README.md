@@ -66,7 +66,7 @@ Follow these steps to set up the project locally:
     - Update the database configuration in the `db_connection.php` file with your MySQL credentials
 
 ### Running The Application
-    - To run the application locally, start your Apache server and navigate to the project directory in your browser:
+    To run the application locally, start your Apache server and navigate to the project directory in your browser:
         http://localhost/online-food-ordering-system
         
        
@@ -99,8 +99,8 @@ To register and log in as a user:
 1. **Register a New Account**: Go to the registration page and create an account using any valid email and password.
 
 Example registration details:
-- **Email**: `jhon@gmail.com`
-- **Password**: `JhonP`
+- **Email**: `raghav@gmail.com`
+- **Password**: `raghav123`
 
 2. **Log In to Your Account**: Use the registered email and password to log in.
 
@@ -114,7 +114,3 @@ Example registration details:
      http://localhost/online-food-ordering-system/index.php
 
 After logging in, you can browse the menu, add items to your cart, place orders, and view your order history.
-
-## Author
-
-- **[Asna Assalam](https://github.com/asnaassalam)**: Creator and developer of the Online Food Order System.
