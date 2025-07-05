@@ -1,28 +1,12 @@
 # Online Food Order System for Restaurant
+An efficient and user-friendly online food ordering system designed to enhance the dining experience for customers and streamline operations for restaurant admins
 
-An efficient and user-friendly online food ordering system designed to enhance the dining experience for customers and streamline operations for restaurant admins.
+# About
+This project provides a comprehensive solution for restaurants to manage their menu, handle orders, and receive customer feedback. It includes a robust admin panel for managing operations and a seamless user interface for customers
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-  - [Access Instructions](#access-instructions)
-- [Author](#author)  
-
-
-## About
-
-This project provides a comprehensive solution for restaurants to manage their menu, handle orders, and receive customer feedback. It includes a robust admin panel for managing operations and a seamless user interface for customers.
 **Responsiveness**: The entire system is designed to be fully responsive, ensuring a smooth and consistent experience across all devices, including desktops, tablets, and smartphones.
 
-
-## Features
+# Features
 
 ### Customer Features
 
@@ -55,25 +39,7 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **Database**: MySQL
 - **Others**: Bootstrap for UI components, jQuery for DOM manipulation, AOS Library for scroll animation.
 
-## Screenshots
-
-These images are included to better illustrate the functionality and user interface of the Online Food Order System and showcase different parts of the application, including the customer interface, admin panel, and key features.
-
-### Admin Interface Screenshot
-
-1. **Dashboard Overview**  
-   ![Admin Dashboard](UI-Screenshots/Admin-Index.png)
-
-### User Interface Screenshot
-
-1. **User Interface Overview**  
-   ![User Index](UI-Screenshots/User-Index.png)
-
-For more detailed UI screenshots, please check the `UI-Screenshots` folder.
-
-## Getting Started
-
-### Prerequisites
+# Implementation
 
 Before you begin, ensure you have met the following requirements:
 
@@ -152,6 +118,3 @@ After logging in, you can browse the menu, add items to your cart, place orders,
 ## Author
 
 - **[Asna Assalam](https://github.com/asnaassalam)**: Creator and developer of the Online Food Order System.
- 
-
-
