@@ -8,7 +8,7 @@ This project provides a comprehensive solution for restaurants to manage their m
 
 # Features
 
-# Customer Features
+## Customer Features
 
 - **User Registration and Login**: Secure account creation and access
 - **Browse Menu Items**: Browse a categorized list of available food items with details like price, description, and images
@@ -21,7 +21,7 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **Table Reservation**: Reserve a table for your visit by selecting a date, time, and number of guests
 - **Profile Settings**: Update personal information such as name, password, and contact details
 
-# Admin Features
+## Admin Features
 
 - **Dashboard Overview**: A comprehensive view of total earnings, orders, reservations, and registered users
 - **Menu Management**: Add, update, and delete menu items, with the ability to categorize items and manage their availability
